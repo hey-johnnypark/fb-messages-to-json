@@ -9,6 +9,7 @@ Facebook allows you to export your user data including all messages. In order to
 <code>
 % npm install cheerio && npm install optimist 
 </code>
+
 ## Usage
 <code>
 Usage: node ./convert-facebook-messages.js -i [facebook_messages.htm] -o [name_of_json_file]
