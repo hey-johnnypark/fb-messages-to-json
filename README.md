@@ -6,6 +6,7 @@ Facebook allows you to export your user data including all messages. In order to
 ## Node dependencies
 + [cheerio](https://github.com/MatthewMueller/cheerio)
 + [optimist](https://github.com/substack/node-optimist)
+
 <code>
 % npm install cheerio && npm install optimist 
 </code>
