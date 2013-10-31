@@ -2,7 +2,7 @@
 Simple [nodejs](http://nodejs.org) utility that converts messages exported from Facebook as HTML into convenient JSON format.
 
 ## Facebook export
-Facebook allows you to export your user data including all messages. In order to download a copy of yur data go to your Facebook account settings and click *"Download a copy of your Facebook data."*. This will start a process that could take a while. You will be notified by E-Mail after this is done. Download the archive and unzip it. The file *"messages.htm"* is located in the *html* subfolder.
+Facebook allows you to export your user data including all messages. In order to download a copy of your data go to your Facebook account settings and click *Download a copy of your Facebook data*. This will start a process that could take a while. You will be notified by E-Mail after this is done. Download the archive and unzip it. The file *messages.htm* is located in the *html* subfolder.
 
 ## Node dependencies
 + [cheerio](https://github.com/MatthewMueller/cheerio)
@@ -46,15 +46,15 @@ After
 
     // Thread
     {
-        users: You, Friend
+        users: "You, Friend"
         messages: [
             {
-                user: You,
+                user: "You",
                 date: "Wednesday, November 12, 2008 at 8:53pm UTC+01",
                 message: "Hey, wann hang out?"
             },
             {
-                user: Friend,
+                user: "Friend",
                 date: "Wednesday, November 12, 2008 at 8:55pm UTC+01",
                 message: "Sure, let's meet at FooBar! It's got a new pool..."
             }
