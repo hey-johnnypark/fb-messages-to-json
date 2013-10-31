@@ -29,7 +29,7 @@ Before
             <span class="meta">Wednesday, November 12, 2008 at 8:53pm UTC+01</span>
         </div>
         <p>
-            Hey, wann hang out?
+            Hey, wanna hang out?
         </p>
 
         <div class="message">
@@ -51,7 +51,7 @@ After
             {
                 user: "You",
                 date: "Wednesday, November 12, 2008 at 8:53pm UTC+01",
-                message: "Hey, wann hang out?"
+                message: "Hey, wanna hang out?"
             },
             {
                 user: "Friend",
