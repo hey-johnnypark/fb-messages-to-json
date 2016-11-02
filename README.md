@@ -9,7 +9,7 @@ Facebook allows you to export your user data including all messages. In order to
 + [optimist](https://github.com/substack/node-optimist)
 
 <code>
-% npm install cheerio && npm install optimist
+% npm install
 </code>
 
 ## Usage

@@ -1,0 +1,29 @@
+{
+  "name": "convert-facebook-messages",
+  "version": "1.0.0",
+  "description": "Converts messages exported from Facebook as HTML into convenient JSON",
+  "main": "convert-facebook-messages.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hey-johnnypark/convert-facebook-messages.git"
+  },
+  "keywords": [
+    "convert",
+    "facebook",
+    "messages"
+  ],
+  "author": "Andreas Finke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hey-johnnypark/convert-facebook-messages/issues"
+  },
+  "homepage": "https://github.com/hey-johnnypark/convert-facebook-messages#readme"
+}
