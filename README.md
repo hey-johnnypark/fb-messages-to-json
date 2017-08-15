@@ -28,9 +28,9 @@ The file *messages.htm* is located in the *html* subfolder.
 
 ## Usage
 ```
-Usage: node ./convert-facebook-messages.js -i [facebook_messages.htm] -o [name_of_json_file]
+Usage: node fb-messages-to-json.js -i [messages.htm.htm] -o [name_of_json_file]
 ```
-##Result
+## Result
 Before
 ```
     // Thread
