@@ -1,13 +1,12 @@
 {
-  "name": "convert-facebook-messages",
+  "name": "fb-messages-to-json",
   "version": "1.0.0",
-  "description": "Converts messages exported from Facebook as HTML into convenient JSON",
-  "main": "convert-facebook-messages.js",
+  "description": "Converts Facebook HTM formatted messages into JSON",
+  "main": "fb-messages-to-json.js",
   "dependencies": {
     "cheerio": "^0.22.0",
     "optimist": "^0.6.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +17,8 @@
   "keywords": [
     "convert",
     "facebook",
-    "messages"
+    "messages",
+    "JSON"
   ],
   "author": "Andreas Finke",
   "license": "MIT",
