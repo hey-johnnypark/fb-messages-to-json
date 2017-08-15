@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hey-johnnypark/convert-facebook-messages.git"
+    "url": "git+https://github.com/hey-johnnypark/fb-messages-to-json.git"
   },
   "keywords": [
     "convert",
@@ -23,7 +23,7 @@
   "author": "Andreas Finke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hey-johnnypark/convert-facebook-messages/issues"
+    "url": "https://github.com/hey-johnnypark/fb-messages-to-json.git/issues"
   },
-  "homepage": "https://github.com/hey-johnnypark/convert-facebook-messages#readme"
+  "homepage": "https://github.com/hey-johnnypark/fb-messages-to-json.git#readme"
 }
